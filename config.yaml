@@ -1,0 +1,8 @@
+naver:
+  id: ccfm_official
+  pw: tkach212@!@
+  cid: '3301663'
+  target_url: https://kakaonews.kr/api/token
+telegram:
+  token: 6845389312:AAGR3427NVNZVU0BmcJr8MZbVSW1TLPqvlA
+  chat_id: '-4686863649'
